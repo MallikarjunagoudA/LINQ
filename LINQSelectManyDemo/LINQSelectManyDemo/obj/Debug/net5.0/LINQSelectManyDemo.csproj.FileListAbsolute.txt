@@ -1,0 +1,16 @@
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\bin\Debug\net5.0\LINQSelectManyDemo.exe
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\bin\Debug\net5.0\LINQSelectManyDemo.deps.json
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\bin\Debug\net5.0\LINQSelectManyDemo.runtimeconfig.json
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\bin\Debug\net5.0\LINQSelectManyDemo.runtimeconfig.dev.json
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\bin\Debug\net5.0\LINQSelectManyDemo.dll
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\bin\Debug\net5.0\LINQSelectManyDemo.pdb
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.csproj.AssemblyReference.cache
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.AssemblyInfoInputs.cache
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.AssemblyInfo.cs
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.csproj.CoreCompileInputs.cache
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.dll
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\refint\LINQSelectManyDemo.dll
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.pdb
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\LINQSelectManyDemo.genruntimeconfig.cache
+E:\LINQ\LINQSelectManyDemo\LINQSelectManyDemo\obj\Debug\net5.0\ref\LINQSelectManyDemo.dll

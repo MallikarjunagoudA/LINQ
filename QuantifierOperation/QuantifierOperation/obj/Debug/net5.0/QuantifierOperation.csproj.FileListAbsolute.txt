@@ -1,0 +1,16 @@
+E:\LINQ\QuantifierOperation\QuantifierOperation\bin\Debug\net5.0\QuantifierOperation.exe
+E:\LINQ\QuantifierOperation\QuantifierOperation\bin\Debug\net5.0\QuantifierOperation.deps.json
+E:\LINQ\QuantifierOperation\QuantifierOperation\bin\Debug\net5.0\QuantifierOperation.runtimeconfig.json
+E:\LINQ\QuantifierOperation\QuantifierOperation\bin\Debug\net5.0\QuantifierOperation.runtimeconfig.dev.json
+E:\LINQ\QuantifierOperation\QuantifierOperation\bin\Debug\net5.0\QuantifierOperation.dll
+E:\LINQ\QuantifierOperation\QuantifierOperation\bin\Debug\net5.0\QuantifierOperation.pdb
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.csproj.AssemblyReference.cache
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.GeneratedMSBuildEditorConfig.editorconfig
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.AssemblyInfoInputs.cache
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.AssemblyInfo.cs
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.csproj.CoreCompileInputs.cache
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.dll
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\refint\QuantifierOperation.dll
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.pdb
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\QuantifierOperation.genruntimeconfig.cache
+E:\LINQ\QuantifierOperation\QuantifierOperation\obj\Debug\net5.0\ref\QuantifierOperation.dll

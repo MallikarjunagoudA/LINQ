@@ -1,0 +1,16 @@
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.csproj.AssemblyReference.cache
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.GeneratedMSBuildEditorConfig.editorconfig
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.AssemblyInfoInputs.cache
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.AssemblyInfo.cs
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.csproj.CoreCompileInputs.cache
+E:\LINQ\FilteringOperation\FilteringOperation\bin\Debug\net5.0\FilteringOperation.exe
+E:\LINQ\FilteringOperation\FilteringOperation\bin\Debug\net5.0\FilteringOperation.deps.json
+E:\LINQ\FilteringOperation\FilteringOperation\bin\Debug\net5.0\FilteringOperation.runtimeconfig.json
+E:\LINQ\FilteringOperation\FilteringOperation\bin\Debug\net5.0\FilteringOperation.runtimeconfig.dev.json
+E:\LINQ\FilteringOperation\FilteringOperation\bin\Debug\net5.0\FilteringOperation.dll
+E:\LINQ\FilteringOperation\FilteringOperation\bin\Debug\net5.0\FilteringOperation.pdb
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.dll
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\refint\FilteringOperation.dll
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.pdb
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\FilteringOperation.genruntimeconfig.cache
+E:\LINQ\FilteringOperation\FilteringOperation\obj\Debug\net5.0\ref\FilteringOperation.dll

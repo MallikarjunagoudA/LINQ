@@ -1,0 +1,16 @@
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.csproj.AssemblyReference.cache
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.AssemblyInfoInputs.cache
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.AssemblyInfo.cs
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.csproj.CoreCompileInputs.cache
+E:\LINQ\PartitioningOperator\PartitioningOperator\bin\Debug\net5.0\PartitioningOperator.exe
+E:\LINQ\PartitioningOperator\PartitioningOperator\bin\Debug\net5.0\PartitioningOperator.deps.json
+E:\LINQ\PartitioningOperator\PartitioningOperator\bin\Debug\net5.0\PartitioningOperator.runtimeconfig.json
+E:\LINQ\PartitioningOperator\PartitioningOperator\bin\Debug\net5.0\PartitioningOperator.runtimeconfig.dev.json
+E:\LINQ\PartitioningOperator\PartitioningOperator\bin\Debug\net5.0\PartitioningOperator.dll
+E:\LINQ\PartitioningOperator\PartitioningOperator\bin\Debug\net5.0\PartitioningOperator.pdb
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.dll
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\refint\PartitioningOperator.dll
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.pdb
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\PartitioningOperator.genruntimeconfig.cache
+E:\LINQ\PartitioningOperator\PartitioningOperator\obj\Debug\net5.0\ref\PartitioningOperator.dll

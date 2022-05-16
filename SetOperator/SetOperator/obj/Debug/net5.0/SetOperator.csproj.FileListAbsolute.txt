@@ -1,0 +1,16 @@
+E:\LINQ\SetOperator\SetOperator\bin\Debug\net5.0\SetOperator.exe
+E:\LINQ\SetOperator\SetOperator\bin\Debug\net5.0\SetOperator.deps.json
+E:\LINQ\SetOperator\SetOperator\bin\Debug\net5.0\SetOperator.runtimeconfig.json
+E:\LINQ\SetOperator\SetOperator\bin\Debug\net5.0\SetOperator.runtimeconfig.dev.json
+E:\LINQ\SetOperator\SetOperator\bin\Debug\net5.0\SetOperator.dll
+E:\LINQ\SetOperator\SetOperator\bin\Debug\net5.0\SetOperator.pdb
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.csproj.AssemblyReference.cache
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.AssemblyInfoInputs.cache
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.AssemblyInfo.cs
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.csproj.CoreCompileInputs.cache
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.dll
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\refint\SetOperator.dll
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.pdb
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\SetOperator.genruntimeconfig.cache
+E:\LINQ\SetOperator\SetOperator\obj\Debug\net5.0\ref\SetOperator.dll

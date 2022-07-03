@@ -21,6 +21,34 @@ namespace LINQ
 
             Console.WriteLine("query syntax");
 
+
+
+            // 1.*** Filtering the data.
+
+            //a.where
+            var a = emp.Where(e => e.EmpName.StartsWith('g'));
+            //b.ofType()
+            var b = emp.OfType<string>();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             //query syntax linq demo
 
             var list =(from a in emp

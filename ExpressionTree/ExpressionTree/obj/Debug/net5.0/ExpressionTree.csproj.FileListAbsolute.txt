@@ -1,0 +1,16 @@
+E:\LINQ\ExpressionTree\ExpressionTree\bin\Debug\net5.0\ExpressionTree.exe
+E:\LINQ\ExpressionTree\ExpressionTree\bin\Debug\net5.0\ExpressionTree.deps.json
+E:\LINQ\ExpressionTree\ExpressionTree\bin\Debug\net5.0\ExpressionTree.runtimeconfig.json
+E:\LINQ\ExpressionTree\ExpressionTree\bin\Debug\net5.0\ExpressionTree.runtimeconfig.dev.json
+E:\LINQ\ExpressionTree\ExpressionTree\bin\Debug\net5.0\ExpressionTree.dll
+E:\LINQ\ExpressionTree\ExpressionTree\bin\Debug\net5.0\ExpressionTree.pdb
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.csproj.AssemblyReference.cache
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.AssemblyInfoInputs.cache
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.AssemblyInfo.cs
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.csproj.CoreCompileInputs.cache
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.dll
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\refint\ExpressionTree.dll
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.pdb
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ExpressionTree.genruntimeconfig.cache
+E:\LINQ\ExpressionTree\ExpressionTree\obj\Debug\net5.0\ref\ExpressionTree.dll

@@ -15,14 +15,7 @@ Has lots of inbuilt methods to support different operations.
 
 
             /*
-             * select many method
-             * 
-             * select many method used to project each element of sequence to an IEnumerable<T> and flatterns the resulting sequence to one sequence.
-             * 
-             * selectMany combines records from a sequence of result and converts it into one result.
-             *   
-             *   selectMany comes under the projection category.
-             *   
+             *   For each with example the details provided in comments.
              */
 
 

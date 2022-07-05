@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-
+using demoApp.model;
 namespace demoApp
 {
     public class Program
@@ -91,10 +91,13 @@ namespace demoApp
             //ls.LinqSort();
 
             LinqGroups lg = new LinqGroups();
-            lg.LinqGroup();
+            //lg.LinqGroup();
 
+            LinqJoins lj = new LinqJoins();
+            //lj.Joins();
 
-
+            LinqProjections lp = new LinqProjections();
+            lp.projections();
 
 
 
@@ -114,10 +117,4 @@ namespace demoApp
         }
     }
 
-    public class Student1
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public int age { get; set; }
-    }
 }

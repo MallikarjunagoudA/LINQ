@@ -92,7 +92,7 @@ namespace demoApp
 			{
 				
 				return i % 2 == 0;
-			});
+			}).Select(s=>s).ToList();
 
 			foreach(Student i in val)
             {

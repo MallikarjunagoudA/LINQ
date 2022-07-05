@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\others\\demoApp\\demoApp\\demoApp.csproj": {}
+    "E:\\LINQ\\demoApp\\demoApp\\demoApp.csproj": {}
   },
   "projects": {
-    "E:\\others\\demoApp\\demoApp\\demoApp.csproj": {
+    "E:\\LINQ\\demoApp\\demoApp\\demoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\others\\demoApp\\demoApp\\demoApp.csproj",
+        "projectUniqueName": "E:\\LINQ\\demoApp\\demoApp\\demoApp.csproj",
         "projectName": "demoApp",
-        "projectPath": "E:\\others\\demoApp\\demoApp\\demoApp.csproj",
+        "projectPath": "E:\\LINQ\\demoApp\\demoApp\\demoApp.csproj",
         "packagesPath": "C:\\Users\\mashi\\.nuget\\packages\\",
-        "outputPath": "E:\\others\\demoApp\\demoApp\\obj\\",
+        "outputPath": "E:\\LINQ\\demoApp\\demoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mashi\\AppData\\Roaming\\NuGet\\NuGet.Config",

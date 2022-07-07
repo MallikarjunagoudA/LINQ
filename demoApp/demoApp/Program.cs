@@ -97,9 +97,10 @@ namespace demoApp
             //lj.Joins();
 
             LinqProjections lp = new LinqProjections();
-            lp.projections();
+            //lp.projections();
 
-
+            quantifiers q = new quantifiers();
+            q.quantifier();
 
 
 

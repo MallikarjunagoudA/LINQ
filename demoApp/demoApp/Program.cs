@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Linq;
 using demoApp.model;
+using demoApp;
+
+
 namespace demoApp
 {
     public class Program
@@ -102,7 +105,8 @@ namespace demoApp
             quantifiers q = new quantifiers();
             q.quantifier();
 
-
+            Elements e = new Elements();
+            e.FunElement();
 
 
 
